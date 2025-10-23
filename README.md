@@ -7,7 +7,7 @@
 
 ## 📚 About This Repository
 
-Welcome to my system administration automation journey! This repository contains **20 hands-on PowerShell projects** that demonstrate process automation in system administration. Each project focuses on identifying automation potential, designing workflows, implementing solutions with PowerShell, and creating proper documentation.
+This repository contains **20 hands-on PowerShell projects** that demonstrate process automation in system administration. Each project focuses on identifying automation potential, designing workflows, implementing solutions with PowerShell, and creating proper documentation.
 
 ### 🎯 Module 122 Learning Objectives
 
@@ -172,12 +172,6 @@ This repository represents my learning journey through **Module 122** at **Techn
 - **Real-world Scenarios** with practical examples
 - **Comprehensive Documentation** for each project
 - **Progressive Learning Path** building complexity over time
-
----
-
-## 🤝 Contributing
-
-This is a learning repository showcasing my PowerShell journey. While primarily for educational purposes, suggestions and improvements are welcome!
 
 ---
 
