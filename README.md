@@ -1,21 +1,22 @@
 # 🚀 M122-PowerShell Learning Repository
 
-> **A comprehensive collection of PowerShell projects developed during Module 122 at Technische Berufsschule Zürich**  
-> *ICT-Fachmann EFZ Apprenticeship - PowerShell Mastery Journey*
+> **A comprehensive collection of PowerShell automation projects developed during Module 122 at Technische Berufsschule Zürich**  
+> *ICT-Fachmann EFZ Apprenticeship - System Administration Process Automation*
 
 ---
 
 ## 📚 About This Repository
 
-Welcome to my PowerShell learning journey! This repository contains **20 hands-on projects** that demonstrate various PowerShell concepts, from basic file operations to advanced system administration tasks. Each project is designed to practice specific PowerShell skills while solving real-world problems.
+Welcome to my system administration automation journey! This repository contains **20 hands-on PowerShell projects** that demonstrate process automation in system administration. Each project focuses on identifying automation potential, designing workflows, implementing solutions with PowerShell, and creating proper documentation.
 
-### 🎯 Learning Objectives
+### 🎯 Module 122 Learning Objectives
 
-- **File System Management** - Working with files, directories, and data processing
-- **System Administration** - Process monitoring, service management, and system health
-- **Network Operations** - API interactions, network testing, and connectivity
-- **Data Processing** - CSV manipulation, filtering, and pipeline operations
-- **Automation & Scripting** - Task scheduling, logging, and system maintenance
+- **Process Automation Design** - Identifying automation potential and designing efficient workflows
+- **Scripting Implementation** - Using PowerShell to automate system administration tasks
+- **Control Structures** - Implementing sequence, selection, and iteration in automation scripts
+- **System Integration** - Integrating automated processes into existing system infrastructure
+- **Testing & Documentation** - Ensuring functionality through testing and creating comprehensive documentation
+- **Security Measures** - Applying security best practices in automated processes
 
 ---
 
@@ -99,68 +100,68 @@ Each project is self-contained with its own documentation. Navigate to any proje
 
 ### **Beginner Level** (Projects 1-5)
 
-- Basic file operations
-- Simple data processing
-- System monitoring fundamentals
+- Basic automation concepts and workflow design
+- Simple process automation with PowerShell
+- Fundamental system administration tasks
 
 ### **Intermediate Level** (Projects 6-15)
 
-- Advanced system administration
-- Network operations
-- Data pipeline processing
+- Advanced automation workflows
+- System integration and process monitoring
+- Network automation and API interactions
 
 ### **Advanced Level** (Projects 16-20)
 
-- Complex automation scenarios
-- Custom function development
-- System optimization and customization
+- Complex automation scenarios and enterprise solutions
+- Advanced scripting and modular development
+- System optimization and security automation
 
 ---
 
 ## 📈 Skills Developed
 
-### **Core PowerShell Concepts**
+### **Process Automation Design**
 
-- ✅ Cmdlets and parameters
-- ✅ Pipeline operations
-- ✅ Object manipulation
-- ✅ Error handling
-- ✅ Function development
+- ✅ Identifying automation potential in system administration tasks
+- ✅ Workflow design and visualization
+- ✅ Process mapping and optimization
+- ✅ Automation strategy development
 
-### **System Administration**
+### **Scripting Implementation**
 
-- ✅ Process and service management
-- ✅ Event log analysis
-- ✅ Scheduled task automation
-- ✅ System health monitoring
+- ✅ PowerShell scripting for system administration
+- ✅ Control structures (sequence, selection, iteration)
+- ✅ Error handling and exception management
+- ✅ Function development and modularization
 
-### **Data Processing**
+### **System Integration**
 
-- ✅ CSV manipulation
-- ✅ JSON parsing
-- ✅ File system operations
-- ✅ Data filtering and sorting
+- ✅ Integrating automated processes into existing infrastructure
+- ✅ Service management and process monitoring
+- ✅ Scheduled task automation and deployment
+- ✅ System health monitoring and alerting
 
-### **Network & Security**
+### **Testing & Documentation**
 
-- ✅ API interactions
-- ✅ Network connectivity testing
-- ✅ File integrity verification
-- ✅ Environment management
+- ✅ Script testing and validation
+- ✅ Comprehensive documentation creation
+- ✅ Code organization and best practices
+- ✅ Security measures and compliance
 
 ---
 
 ## 🏫 Educational Context
 
-This repository represents my learning journey through **Module 122** at **Technische Berufsschule Zürich** during my **ICT-Fachmann EFZ Apprenticeship**. Each project demonstrates practical application of PowerShell concepts learned in the classroom, with real-world scenarios and professional development practices.
+This repository represents my learning journey through **Module 122** at **Technische Berufsschule Zürich** during my **ICT-Fachmann EFZ Apprenticeship**. Module 122 focuses on **process automation in system administration using scripting**. Each project demonstrates practical application of automation concepts, workflow design, and PowerShell implementation learned in the classroom.
 
 ### **Module 122 Focus Areas**
 
-- **PowerShell Fundamentals** - Core language features and syntax
-- **System Administration** - Windows management and automation
-- **Data Processing** - Working with structured and unstructured data
-- **Network Operations** - Connectivity and API interactions
-- **Best Practices** - Code organization, error handling, and documentation
+- **Process Automation Design** - Identifying automation potential and designing efficient workflows
+- **Scripting Implementation** - Using PowerShell to automate system administration tasks
+- **Control Structures** - Implementing sequence, selection, and iteration in automation scripts
+- **System Integration** - Integrating automated processes into existing system infrastructure
+- **Testing & Documentation** - Ensuring functionality through testing and creating comprehensive documentation
+- **Security Measures** - Applying security best practices in automated processes
 
 ---
 
