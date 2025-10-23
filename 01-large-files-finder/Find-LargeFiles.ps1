@@ -1,0 +1,1 @@
+Get-ChildItem -path "C:\Users\Robin\Desktop\El Huma\Programming\PowerShell\GitHub Repos\M122-PowerShell" | Format-Table -Property Name,Length
